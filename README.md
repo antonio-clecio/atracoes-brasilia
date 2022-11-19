@@ -1,6 +1,6 @@
 # Atrações em Brasília
 
-[!preview](./.github/preview.png)
+![preview](./.github/preview.png)
 
 Projeto desenvolvido através do livro de HTML5 e CSS3 Domine a web do futuro
 
